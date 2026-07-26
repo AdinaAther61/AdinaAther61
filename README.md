@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Adina Ather</h1>
-<h3 align="center">Computer Systems Engineer | Python Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Adina%20Ather&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Computer%20Systems%20Engineer%20%7C%20Python%20Developer&descSize=20&descAlignY=58" alt="header banner" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Computer+Systems+Engineer;Python+Developer;Diving+deep+into+AI+%26+Machine+Learning;Building+real-world+projects+one+line+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=750&lines=Diving+deep+into+AI+%26+Machine+Learning;Building+real-world+projects+one+line+at+a+time;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +17,7 @@
 
 ---
 
-###  Intro:
+### 🧠 Intro
 
 ```
 I am an undergraduate Computer Systems Engineer, currently diving deep into
