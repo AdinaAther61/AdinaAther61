@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a0404,100:7a0c0c&height=200&text=Adina%20Ather&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Computer%20Systems%20Engineer%20%7C%20Python%20Developer&descSize=20&descAlignY=65" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4a0404,100:7a0c0c&height=200&text=Adina%20Ather&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Computer%20Systems%20Engineer%20%7C%20Python%20Developer&descSize=20&descAlignY=65" alt="header banner" />
 </p>
 
 <p align="center">
@@ -63,8 +63,4 @@ working projects. Always curious, always building.**
 <p align="center">
   📧 <a href="mailto:adinaather692@gmail.com">adinaather692@gmail.com</a> &nbsp;|&nbsp;
   💼 <a href="https://www.linkedin.com/in/adina-ather-810771387">LinkedIn</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdinaAther61&style=flat-square&color=2E86C1" alt="profile views" />
 </p>
