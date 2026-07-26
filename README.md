@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Adina%20Ather&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Computer%20Systems%20Engineer%20%7C%20Python%20Developer&descSize=20&descAlignY=58" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2c5c&height=260&section=header&text=Adina%20Ather&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Computer%20Systems%20Engineer%20%7C%20Python%20Developer&descSize=20&descAlignY=58" alt="header banner" />
 </p>
 
 <p align="center">
@@ -19,12 +19,10 @@
 
 ### 🧠 Intro
 
-```
-I am an undergraduate Computer Systems Engineer, currently diving deep into
+**I am an undergraduate Computer Systems Engineer, currently diving deep into
 Artificial Intelligence and Machine Learning. I have core skills in
 programming and I'm passionate about turning what I learn into real,
-working projects. Always curious, always building.
-```
+working projects. Always curious, always building.**
 
 ---
 
