@@ -22,7 +22,8 @@
 **I am an undergraduate Computer Systems Engineer, currently diving deep into
 Artificial Intelligence and Machine Learning. I have core skills in
 programming and I'm passionate about turning what I learn into real,
-working projects. Always curious, always building.**
+working projects. Always curious, always building.
+But beyond the world of code, I’m deeply fascinated by space and the cosmos — the infinite systems that inspire the very logic behind computing. I love drawing parallels between algorithms and the universe, where every star feels like a node and every orbit like a loop.**
 
 ---
 
