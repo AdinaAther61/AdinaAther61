@@ -17,7 +17,7 @@
 
 ---
 
-### 🧠 Intro
+###  Intro
 
 **I am an undergraduate Computer Systems Engineer, currently diving deep into
 Artificial Intelligence and Machine Learning. I have core skills in
@@ -38,8 +38,16 @@ But beyond the world of code, I’m deeply fascinated by space and the cosmos �
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952F3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/Numpy-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/pandas-7958B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-7958B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+---
+
+### 🌌 Contribution Galaxy
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdinaAther61/AdinaAther61/output/github-contribution-grid-snake-dark.svg" alt="snake animation showing my contribution graph as a moving cosmic snake" />
 </p>
 
 ---
