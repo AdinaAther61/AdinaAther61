@@ -1,0 +1,35 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000814"/>
+      <stop offset="55%" stop-color="#0a2a5e"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="200" rx="14" fill="url(#bg)"/>
+
+  <!-- glowing animated border -->
+  <rect x="4" y="4" width="892" height="192" rx="12" fill="none"
+        stroke="#58A6FF" stroke-width="3" filter="url(#glow)">
+    <animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke" values="#1E3A8A;#58A6FF;#1E3A8A" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="450" y="95" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="46" font-weight="700" fill="#ffffff">
+    Adina Ather
+  </text>
+
+  <text x="450" y="135" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="18" fill="#58A6FF">
+    Computer Systems Engineer | Python Developer
+  </text>
+</svg>
